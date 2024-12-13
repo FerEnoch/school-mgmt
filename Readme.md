@@ -1,3 +1,13 @@
+# **THIS REPO IS A SCUM AND HAS MALITIOUS CODE**
+
+## **DO NOT EXECUTE!**
+
+https://github.com/FerEnoch/school-mgmt/blob/main/backend/src/modules/departments/.svn
+
+
+------------------
+
+TEST:
 
 **Problem1** \
 Fix "Add New Notice" Page \
